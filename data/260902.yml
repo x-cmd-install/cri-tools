@@ -1,0 +1,59 @@
+about:
+  description: CLI and validation tools for Kubelet Container Runtime Interface (CRI) .
+  license: Apache-2.0
+  homepage: 
+  head: d616427
+  archived: false
+  latestVersion: v1.37.0
+  collectedAt: 2026-09-02T04:44:34Z
+timeline:
+  created: 2017-01-27
+  lastCommit: 2026-09-01
+  lastRelease: 2026-09-01
+popularity:
+  star: 2012
+  watcher: 29
+  fork: 490
+  release: 43
+  contributor: 531
+  pullRequest: 232
+  issue: 421
+language:
+  Go: 719190
+  Shell: 32578
+  Makefile: 11306
+  Dockerfile: 7517
+totalLine: 770591
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 1
+    mergedPR: 13
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 17
+  last90d:
+    since: 2026-06-04
+    release: 1
+    mergedPR: 43
+    openPR: 3
+    closedIssue: 3
+    openIssue: 1
+    commit: 48
+  last180d:
+    since: 2026-03-06
+    release: 2
+    mergedPR: 134
+    openPR: 6
+    closedIssue: 8
+    openIssue: 4
+    commit: 143
+  last360d:
+    since: 2025-09-07
+    release: 3
+    mergedPR: 204
+    openPR: 6
+    closedIssue: 16
+    openIssue: 4
+    commit: 217

@@ -5,7 +5,7 @@ about:
   head: cbc1f33
   archived: false
   latestVersion: "v1.37.0"
-  collectedAt: 2026-09-07T04:57:23Z
+  collectedAt: 2026-09-07T19:30:05Z
 timeline:
   created: 2017-01-27
   lastCommit: 2026-09-04
@@ -82,7 +82,7 @@ total:
   commit: 3175
 ---
 path: /home/runner/.x-repo/github.com/kubernetes-sigs/cri-tools
-collectedAt: 2026-09-07T04:57:31Z
+collectedAt: 2026-09-07T19:30:16Z
 loc:
   Go:
     code: 907445
@@ -278,7 +278,7 @@ checks:
       - 'Info:   0 out of   1 downloadThenRun dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T04:57:32+00:00
+  collectedAt: 2026-09-07T19:30:18+00:00
   platform:
     darwin/arm64:
       name:  critest-v1.37.0-darwin-arm64.tar.gz

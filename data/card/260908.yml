@@ -5,7 +5,7 @@ about:
   head: cbc1f33
   archived: false
   latestVersion: "v1.37.0"
-  collectedAt: 2026-09-08T02:18:03Z
+  collectedAt: 2026-09-08T04:56:33Z
 timeline:
   created: 2017-01-27
   lastCommit: 2026-09-04
@@ -82,7 +82,7 @@ total:
   commit: 3175
 ---
 path: /home/runner/.x-repo/github.com/kubernetes-sigs/cri-tools
-collectedAt: 2026-09-08T02:18:11Z
+collectedAt: 2026-09-08T04:56:40Z
 loc:
   Go:
     code: 907445

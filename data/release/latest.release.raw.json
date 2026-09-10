@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 20408488,
       "digest": "sha256:e274e10f7eba3df294869289bd13966918382252297c9665e61eb83a69786ed2",
-      "download_count": 35,
+      "download_count": 39,
       "created_at": "2026-09-01T08:40:56Z",
       "updated_at": "2026-09-01T08:40:58Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-darwin-amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:20a3915e17cf3a0085f65bf6b10fe2fcdf434ac774f936d682049dd68a55e5d2",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-01T08:40:56Z",
       "updated_at": "2026-09-01T08:40:56Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-darwin-amd64.tar.gz.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 129,
       "digest": "sha256:cb905b02a5a7bceac07a8152d43153d410c06e6749f521af57a7e7f1771ca49c",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-01T08:40:55Z",
       "updated_at": "2026-09-01T08:40:56Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-darwin-amd64.tar.gz.sha512"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 19070896,
       "digest": "sha256:cd691c0f5374f4547cf812c8d88eb0e7bb4ea63551c02e5dcbf3684bc64c9804",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-09-01T08:40:54Z",
       "updated_at": "2026-09-01T08:40:55Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-darwin-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:1e9bc7fdf703b2123fc342e93dff3327e45944b5f5b16092385244c0afe1769d",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-01T08:40:53Z",
       "updated_at": "2026-09-01T08:40:54Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-darwin-arm64.tar.gz.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 129,
       "digest": "sha256:e2d1470aa6268398f8c552ee643ae8f765c3010beb67a25cc5e5166ec242debd",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-01T08:40:53Z",
       "updated_at": "2026-09-01T08:40:53Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-darwin-arm64.tar.gz.sha512"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 18648819,
       "digest": "sha256:1c6a8957dfd1d20faf26077ad116e1fd728baad4ff7e831f05a742dcaaee69e3",
-      "download_count": 23,
+      "download_count": 25,
       "created_at": "2026-09-01T08:40:52Z",
       "updated_at": "2026-09-01T08:40:53Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-386.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:08d249253447f8058a82130fb6f4bf0a2ca39f6acc5d31e3c5539328215696e8",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-01T08:40:51Z",
       "updated_at": "2026-09-01T08:40:51Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-386.tar.gz.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 129,
       "digest": "sha256:21eca69b799534e3eb9a8d5b18f945c039d19d354d6667af6ec80c9fffcf6a5a",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-01T08:40:51Z",
       "updated_at": "2026-09-01T08:40:51Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-386.tar.gz.sha512"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 19539425,
       "digest": "sha256:67c983ee8a6bbce73d39a186e633c5fe4f8a70e62171ac3bd92a9c1b2c601670",
-      "download_count": 36958,
+      "download_count": 40208,
       "created_at": "2026-09-01T08:40:49Z",
       "updated_at": "2026-09-01T08:40:50Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-amd64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:e44035a79be2dac5ef41b87261cbfa2d804f98e2d9be82fd04755bf0f063733f",
-      "download_count": 338,
+      "download_count": 365,
       "created_at": "2026-09-01T08:40:49Z",
       "updated_at": "2026-09-01T08:40:49Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-amd64.tar.gz.sha256"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 129,
       "digest": "sha256:54d92f7fea527d4311f7f869a38c5c50043f3e9f9c3929d20d9cf2411c12a3d5",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-09-01T08:40:48Z",
       "updated_at": "2026-09-01T08:40:49Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-amd64.tar.gz.sha512"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 17809380,
       "digest": "sha256:c9dfdf9ebc353a0027c88622206a5e90ee6f0e78cfabf1a9ef4dc575298fd555",
-      "download_count": 2234,
+      "download_count": 2390,
       "created_at": "2026-09-01T08:40:47Z",
       "updated_at": "2026-09-01T08:40:48Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-arm64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:20ef59df8a76399e42741b2999ca0f9085f91e1b19ed31d64e3d93330eac7a75",
-      "download_count": 57,
+      "download_count": 68,
       "created_at": "2026-09-01T08:40:47Z",
       "updated_at": "2026-09-01T08:40:47Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-arm64.tar.gz.sha256"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 129,
       "digest": "sha256:c6cef2c187a70a972a1c58b2be1dcb58f337bbfe34f58d56ccb908983c993699",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-01T08:40:46Z",
       "updated_at": "2026-09-01T08:40:46Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-arm64.tar.gz.sha512"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 17215815,
       "digest": "sha256:64ab04ae708b09ef545246567bec7507ffca44079fb1bba2f5c2a156c1b35978",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-01T08:40:45Z",
       "updated_at": "2026-09-01T08:40:46Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-mips64le.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:030feb724bff99ce3bb0885ff2f10b38173c4b77a9aff83694658a9df5c44dea",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-01T08:40:44Z",
       "updated_at": "2026-09-01T08:40:45Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-mips64le.tar.gz.sha256"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 129,
       "digest": "sha256:b84e5512c5a6b69662c9a609daff38e4001b6cceb4a503e9585e07d8f6d5f38a",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-01T08:40:44Z",
       "updated_at": "2026-09-01T08:40:44Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-mips64le.tar.gz.sha512"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 18122591,
       "digest": "sha256:a4d88e35f9b783803a57afcba18a432455cf8d39ceda96657fff95c09f0da35d",
-      "download_count": 248,
+      "download_count": 279,
       "created_at": "2026-09-01T08:40:42Z",
       "updated_at": "2026-09-01T08:40:43Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-ppc64le.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:4beaff45bd685c6d32c0c5b0f1415008fe9f304fc5606ef8b518ffa9aabbecfa",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-09-01T08:40:42Z",
       "updated_at": "2026-09-01T08:40:42Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-ppc64le.tar.gz.sha256"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 129,
       "digest": "sha256:e2ab919730fc04cd35b54809233b90b29fa0aade1d10c52f54aaa6c63c124d22",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-01T08:40:41Z",
       "updated_at": "2026-09-01T08:40:41Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-ppc64le.tar.gz.sha512"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 18475094,
       "digest": "sha256:ac351a0a69a9f4622042888988f210f90321c703116758c04d5d5999c1efc9bf",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-01T08:40:40Z",
       "updated_at": "2026-09-01T08:40:41Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-riscv64.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:a221a368437b767b5d1d4c214512ea711ca98750d273d4e62686e9d0f5a2fdcf",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-01T08:40:39Z",
       "updated_at": "2026-09-01T08:40:40Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-riscv64.tar.gz.sha256"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 129,
       "digest": "sha256:50b8974614aad9e73076bc15993f354deabe8eda4643e0ca21f8ed666c827252",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-01T08:40:39Z",
       "updated_at": "2026-09-01T08:40:39Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-riscv64.tar.gz.sha512"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 19405786,
       "digest": "sha256:76d45dc16c5fa41d01f0dbb57990b100ef8a985b6a2c9b9bf3b7d3e7fe2ad9e3",
-      "download_count": 581,
+      "download_count": 653,
       "created_at": "2026-09-01T08:40:38Z",
       "updated_at": "2026-09-01T08:40:39Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-s390x.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:afc2d6868540be7b03b2607f36c531233eec4e9fb5d5485b1551ce5f0f996e25",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-01T08:40:37Z",
       "updated_at": "2026-09-01T08:40:37Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-s390x.tar.gz.sha256"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 129,
       "digest": "sha256:6808f5178cf3e3381ce5188d7f09d818beb63643c54e7d6807c349b849d2cb07",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-01T08:40:37Z",
       "updated_at": "2026-09-01T08:40:37Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-linux-s390x.tar.gz.sha512"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 19224410,
       "digest": "sha256:bfa8972241c019d43c94ba457e015f9e3379bc169c2c3c1986f82ccc146c6b2c",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-09-01T08:40:35Z",
       "updated_at": "2026-09-01T08:40:37Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-windows-386.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:152e35c0959d1390385dba89f7680fa250cff4b8eb2edab31beb7580078e3e16",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-01T08:40:35Z",
       "updated_at": "2026-09-01T08:40:35Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-windows-386.tar.gz.sha256"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 129,
       "digest": "sha256:9d836fc06a308430aabcec26cba00f9636bf7a486892b14ce5386978929119ab",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-01T08:40:34Z",
       "updated_at": "2026-09-01T08:40:35Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-windows-386.tar.gz.sha512"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 19925790,
       "digest": "sha256:d83d0955008a841a4cb3291bcf78e8e2b897212250b90f75fbd14bdb3bf9a28d",
-      "download_count": 1389,
+      "download_count": 1650,
       "created_at": "2026-09-01T08:40:33Z",
       "updated_at": "2026-09-01T08:40:34Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-windows-amd64.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:5f26d23697f3b0045d0e54cae00c1d98e8559bfdbe255914d18ae3b5cba197cc",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-01T08:40:33Z",
       "updated_at": "2026-09-01T08:40:33Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-windows-amd64.tar.gz.sha256"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 129,
       "digest": "sha256:3a56ad43499874b95cb0462059f602e4da325cf091b2428810eb8ec3a73e24c4",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-09-01T08:40:31Z",
       "updated_at": "2026-09-01T08:40:32Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/crictl-v1.37.0-windows-amd64.tar.gz.sha512"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 20224955,
       "digest": "sha256:2e27d74e298eb2a3f509fda68874d7a97a2b61877c72c4f98d3a97c627a7f13c",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-01T08:40:30Z",
       "updated_at": "2026-09-01T08:40:31Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-darwin-amd64.tar.gz"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:0113eca15c3a809cdc42f2d7f45af5b963c941e09b755bf5ba4862f5d0316c6a",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-01T08:40:29Z",
       "updated_at": "2026-09-01T08:40:29Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-darwin-amd64.tar.gz.sha256"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 129,
       "digest": "sha256:4401a73590aeb4bf8381e49c81c16c4e9c060f269c97d01781e92ae2a0e33754",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-01T08:40:29Z",
       "updated_at": "2026-09-01T08:40:29Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-darwin-amd64.tar.gz.sha512"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 18871868,
       "digest": "sha256:f005741f4fee8e719bcde37cc9f94f794561a73664fff1fd1ce16d27cd743745",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-01T08:40:27Z",
       "updated_at": "2026-09-01T08:40:28Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-darwin-arm64.tar.gz"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:01a052e5e20fd587cca15de3b769fe4d20c77a1394de89b25362f2f16e079c80",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-01T08:40:27Z",
       "updated_at": "2026-09-01T08:40:27Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-darwin-arm64.tar.gz.sha256"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 129,
       "digest": "sha256:e16ab91cd278308ef0d7d2889d462b07356c45b8e361b3844502bddcfdd278e4",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-01T08:40:26Z",
       "updated_at": "2026-09-01T08:40:27Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-darwin-arm64.tar.gz.sha512"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 19679236,
       "digest": "sha256:adbd349ddf416d3d0c2678c63ce39c3fa62988c5bcbf7c1b01d3e3aaa33562dd",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-09-01T08:40:25Z",
       "updated_at": "2026-09-01T08:40:26Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-linux-386.tar.gz"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:cd78dc87654e5190bc88ea862dd773cd05d735ea5599f275c366024f5e7acb20",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-01T08:40:24Z",
       "updated_at": "2026-09-01T08:40:25Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-linux-386.tar.gz.sha256"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 129,
       "digest": "sha256:f1129d3529d62680f5ba00d44744ab6b9fe98231fd236e57369dac7de215ea01",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-01T08:40:24Z",
       "updated_at": "2026-09-01T08:40:24Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-linux-386.tar.gz.sha512"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 20730213,
       "digest": "sha256:e39780b83deac72e3d70599a6641f4db7661b63ebe15aa6d9f6d46dde06a4c05",
-      "download_count": 98,
+      "download_count": 103,
       "created_at": "2026-09-01T08:40:23Z",
       "updated_at": "2026-09-01T08:40:23Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-linux-amd64.tar.gz"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:6925b3454e99baf83c3826096c3a3179cbd4f8ae1d3e2baa2867bb17577665a4",
-      "download_count": 89,
+      "download_count": 90,
       "created_at": "2026-09-01T08:40:20Z",
       "updated_at": "2026-09-01T08:40:22Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-linux-amd64.tar.gz.sha256"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 129,
       "digest": "sha256:dcf9d47bced2246142ae370171ce1bf5fe17ecd7c4591a98f6bcbc9819122560",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-09-01T08:40:20Z",
       "updated_at": "2026-09-01T08:40:20Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-linux-amd64.tar.gz.sha512"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 18873231,
       "digest": "sha256:e0977695017bf12d5fb407fbf7bda2fe852c839e823de58bd0025a67f8d601c0",
-      "download_count": 23,
+      "download_count": 30,
       "created_at": "2026-09-01T08:40:18Z",
       "updated_at": "2026-09-01T08:40:19Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-linux-arm64.tar.gz"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:63e25c2857135628e4c9615be2bd7bfafc0757f10f451db81d6c41cde0d16f7e",
-      "download_count": 26,
+      "download_count": 33,
       "created_at": "2026-09-01T08:40:18Z",
       "updated_at": "2026-09-01T08:40:18Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-linux-arm64.tar.gz.sha256"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 129,
       "digest": "sha256:e0b90ee819eef675f8ff676cfe02273ce3d5d2e8ecd155dd039d265690f3ce1c",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-01T08:40:17Z",
       "updated_at": "2026-09-01T08:40:18Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-linux-arm64.tar.gz.sha512"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 18992922,
       "digest": "sha256:4099a45ba7920cd119acf49662d616a9c4beef6ad418b2fbca27f5d3bbec1890",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-09-01T08:40:16Z",
       "updated_at": "2026-09-01T08:40:17Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-windows-386.tar.gz"
@@ -1831,7 +1831,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:66a19ff2001ea3cf066d06abde2ba179ed8bd6aa0bd9c4dc57d6d742fc643da2",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-01T08:40:16Z",
       "updated_at": "2026-09-01T08:40:16Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-windows-386.tar.gz.sha256"
@@ -1867,7 +1867,7 @@
       "state": "uploaded",
       "size": 129,
       "digest": "sha256:d605f388136c8e68eebaecae6dada6902ee7a1d6b914d6029b84007942247064",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-01T08:40:15Z",
       "updated_at": "2026-09-01T08:40:15Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-windows-386.tar.gz.sha512"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 19730212,
       "digest": "sha256:f5b45c0bad5681d4f38d3c4f2a88a7b9724ca7ae9417e3408953f1044e0a23b0",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-09-01T08:40:14Z",
       "updated_at": "2026-09-01T08:40:15Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-windows-amd64.tar.gz"
@@ -1939,7 +1939,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:2d29561ec138ba96466adb3ebf25b4a47f90ec7a9b7c422dcbbf00e24144b882",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-01T08:40:13Z",
       "updated_at": "2026-09-01T08:40:13Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-windows-amd64.tar.gz.sha256"
@@ -1975,7 +1975,7 @@
       "state": "uploaded",
       "size": 129,
       "digest": "sha256:3d5b7ad245b1b2f884d4622348cb3be039e3e263d86935a198120961365dd788",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-01T08:40:12Z",
       "updated_at": "2026-09-01T08:40:13Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-windows-amd64.tar.gz.sha512"

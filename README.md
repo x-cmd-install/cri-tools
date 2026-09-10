@@ -125,7 +125,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **65** distros on [repology.org](https://repology.org/project/cri-tools). **2** are ✅ on the latest upstream release, **50** are ⚠️ on an older version.
+Reported by **66** distros on [repology.org](https://repology.org/project/cri-tools). **3** are ✅ on the latest upstream release, **49** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -146,4 +146,4 @@ Install metadata for cri-tools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:51:26Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:09:39Z._

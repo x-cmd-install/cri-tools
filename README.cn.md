@@ -12,7 +12,7 @@ CLI and validation tools for Kubelet Container Runtime Interface (CRI) .
 x install cri-tools
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **923,089** 行代码（覆盖前 5 种语言、共 **2828** 个文件）。
 
@@ -125,7 +125,7 @@ x install cri-tools
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/cri-tools) 上共有 **65** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**50** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/cri-tools) 上共有 **66** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**49** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -146,4 +146,4 @@ cri-tools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:51:27Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:09:40Z._

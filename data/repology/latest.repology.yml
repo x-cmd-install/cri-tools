@@ -1,6 +1,39 @@
 - repo: amazon_2
   srcname: cri-tools
   visiblename: cri-tools
+  version: 1.25.0
+  origversion: 1.25.0-1.amzn2.0.1
+  status: legacy
+  summary: CLI and validation tools for Kubelet Container Runtime Interface (CRI)
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Unspecified
+- repo: amazon_2
+  srcname: cri-tools
+  visiblename: cri-tools
+  version: 1.26.1
+  origversion: 1.26.1-1.amzn2.0.1
+  status: legacy
+  summary: CLI and validation tools for Kubelet Container Runtime Interface (CRI)
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Unspecified
+- repo: amazon_2
+  srcname: cri-tools
+  visiblename: cri-tools
+  version: 1.26.1
+  origversion: 1.26.1-1.amzn2.0.2
+  status: legacy
+  summary: CLI and validation tools for Kubelet Container Runtime Interface (CRI)
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Unspecified
+- repo: amazon_2
+  srcname: cri-tools
+  visiblename: cri-tools
   version: 1.26.1
   origversion: 1.26.1-1.amzn2.0.3
   status: legacy
@@ -9,6 +42,97 @@
     - Apache License 2.0
   categories:
     - Unspecified
+- repo: alpine_3_19
+  subrepo: community
+  srcname: cri-tools
+  binname: cri-tools
+  visiblename: cri-tools
+  version: 1.28.0
+  origversion: 1.28.0-r5
+  status: outdated
+  summary: CLI tool for Kubelet Container Runtime Interface (CRI)
+  maintainers:
+    - fcolista@alpinelinux.org
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: cri-tools
+  binname: cri-tools
+  visiblename: cri-tools
+  version: 1.29.0
+  origversion: 1.29.0-r5
+  status: outdated
+  summary: CLI tool for Kubelet Container Runtime Interface (CRI)
+  maintainers:
+    - fcolista@alpinelinux.org
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: cri-tools
+  binname: cri-tools
+  visiblename: cri-tools
+  version: 1.31.1
+  origversion: 1.31.1-r5
+  status: outdated
+  summary: CLI tool for Kubelet Container Runtime Interface (CRI)
+  maintainers:
+    - fcolista@alpinelinux.org
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: cri-tools
+  binname: cri-tools
+  visiblename: cri-tools
+  version: 1.32.0
+  origversion: 1.32.0-r10
+  status: outdated
+  summary: CLI tool for Kubelet Container Runtime Interface (CRI)
+  maintainers:
+    - fcolista@alpinelinux.org
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: cri-tools
+  binname: cri-tools
+  visiblename: cri-tools
+  version: 1.34.0
+  origversion: 1.34.0-r8
+  status: outdated
+  summary: CLI tool for Kubelet Container Runtime Interface (CRI)
+  maintainers:
+    - fcolista@alpinelinux.org
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: cri-tools
+  binname: cri-tools
+  visiblename: cri-tools
+  version: 1.36.0
+  origversion: 1.36.0-r2
+  status: outdated
+  summary: CLI tool for Kubelet Container Runtime Interface (CRI)
+  maintainers:
+    - fcolista@alpinelinux.org
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: cri-tools
+  binname: cri-tools
+  visiblename: cri-tools
+  version: 1.36.0
+  origversion: 1.36.0-r2
+  status: outdated
+  summary: CLI tool for Kubelet Container Runtime Interface (CRI)
+  maintainers:
+    - fcolista@alpinelinux.org
+  licenses:
+    - Apache-2.0
 - repo: amazon_2
   srcname: cri-tools
   visiblename: cri-tools
@@ -108,154 +232,6 @@
     - Apache License 2.0
   categories:
     - Unspecified
-- repo: parabola
-  subrepo: extra
-  srcname: cri-tools
-  binname: crictl
-  visiblename: crictl
-  version: 1.36.0
-  origversion: 1.36.0-1
-  status: outdated
-  summary: A CLI for CRI-compatible container runtimes
-  licenses:
-    - Apache-2.0
-- repo: parrot
-  subrepo: parrot/main
-  srcname: cri-tools
-  binnames:
-    - cri-tools
-  visiblename: cri-tools
-  version: 1.28.0
-  origversion: 1.28.0-0parrot1
-  status: outdated
-  maintainers:
-    - palinuro@parrotsec.org
-  categories:
-    - misc
-- repo: alpine_3_19
-  subrepo: community
-  srcname: cri-tools
-  binname: cri-tools
-  visiblename: cri-tools
-  version: 1.28.0
-  origversion: 1.28.0-r5
-  status: outdated
-  summary: CLI tool for Kubelet Container Runtime Interface (CRI)
-  maintainers:
-    - fcolista@alpinelinux.org
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: cri-tools
-  binname: cri-tools
-  visiblename: cri-tools
-  version: 1.29.0
-  origversion: 1.29.0-r5
-  status: outdated
-  summary: CLI tool for Kubelet Container Runtime Interface (CRI)
-  maintainers:
-    - fcolista@alpinelinux.org
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_21
-  subrepo: community
-  srcname: cri-tools
-  binname: cri-tools
-  visiblename: cri-tools
-  version: 1.31.1
-  origversion: 1.31.1-r5
-  status: outdated
-  summary: CLI tool for Kubelet Container Runtime Interface (CRI)
-  maintainers:
-    - fcolista@alpinelinux.org
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_22
-  subrepo: community
-  srcname: cri-tools
-  binname: cri-tools
-  visiblename: cri-tools
-  version: 1.32.0
-  origversion: 1.32.0-r10
-  status: outdated
-  summary: CLI tool for Kubelet Container Runtime Interface (CRI)
-  maintainers:
-    - fcolista@alpinelinux.org
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_23
-  subrepo: community
-  srcname: cri-tools
-  binname: cri-tools
-  visiblename: cri-tools
-  version: 1.34.0
-  origversion: 1.34.0-r8
-  status: outdated
-  summary: CLI tool for Kubelet Container Runtime Interface (CRI)
-  maintainers:
-    - fcolista@alpinelinux.org
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_24
-  subrepo: community
-  srcname: cri-tools
-  binname: cri-tools
-  visiblename: cri-tools
-  version: 1.36.0
-  origversion: 1.36.0-r2
-  status: outdated
-  summary: CLI tool for Kubelet Container Runtime Interface (CRI)
-  maintainers:
-    - fcolista@alpinelinux.org
-  licenses:
-    - Apache-2.0
-- repo: alpine_edge
-  subrepo: community
-  srcname: cri-tools
-  binname: cri-tools
-  visiblename: cri-tools
-  version: 1.36.0
-  origversion: 1.36.0-r2
-  status: outdated
-  summary: CLI tool for Kubelet Container Runtime Interface (CRI)
-  maintainers:
-    - fcolista@alpinelinux.org
-  licenses:
-    - Apache-2.0
-- repo: amazon_2
-  srcname: cri-tools
-  visiblename: cri-tools
-  version: 1.25.0
-  origversion: 1.25.0-1.amzn2.0.1
-  status: legacy
-  summary: CLI and validation tools for Kubelet Container Runtime Interface (CRI)
-  licenses:
-    - Apache License 2.0
-  categories:
-    - Unspecified
-- repo: amazon_2
-  srcname: cri-tools
-  visiblename: cri-tools
-  version: 1.26.1
-  origversion: 1.26.1-1.amzn2.0.1
-  status: legacy
-  summary: CLI and validation tools for Kubelet Container Runtime Interface (CRI)
-  licenses:
-    - Apache License 2.0
-  categories:
-    - Unspecified
-- repo: amazon_2
-  srcname: cri-tools
-  visiblename: cri-tools
-  version: 1.26.1
-  origversion: 1.26.1-1.amzn2.0.2
-  status: legacy
-  summary: CLI and validation tools for Kubelet Container Runtime Interface (CRI)
-  licenses:
-    - Apache License 2.0
-  categories:
-    - Unspecified
 - repo: aosc
   srcname: runtime-containers/cri-tools
   binname: cri-tools
@@ -271,23 +247,23 @@
 - repo: arch
   subrepo: extra
   srcname: cri-tools
-  binname: critest
-  visiblename: critest
-  version: 1.36.0
-  origversion: 1.36.0-1
-  status: outdated
-  summary: A benchmarking CLI for CRI-compatible container runtimes
-  licenses:
-    - Apache-2.0
-- repo: arch
-  subrepo: extra
-  srcname: cri-tools
   binname: crictl
   visiblename: crictl
   version: 1.36.0
   origversion: 1.36.0-1
   status: outdated
   summary: A CLI for CRI-compatible container runtimes
+  licenses:
+    - Apache-2.0
+- repo: arch
+  subrepo: extra
+  srcname: cri-tools
+  binname: critest
+  visiblename: critest
+  version: 1.36.0
+  origversion: 1.36.0-1
+  status: outdated
+  summary: A benchmarking CLI for CRI-compatible container runtimes
   licenses:
     - Apache-2.0
 - repo: archpower_powerpc64le
@@ -408,25 +384,6 @@
     - Apache-2.0
   categories:
     - Unspecified
-- repo: liguros_develop
-  srcname: app-containers/cri-tools
-  visiblename: app-containers/cri-tools
-  version: 1.35.0
-  origversion: null
-  status: legacy
-  summary: CLI and validation tools for Kubelet Container Runtime (CRI)
-  maintainers:
-    - zmedico@gentoo.org
-  licenses:
-    - Apache-2.0
-    - BSD
-    - BSD-2
-    - CC-BY-SA-4.0
-    - ISC
-    - MIT
-    - MPL-2.0
-  categories:
-    - app-containers
 - repo: gentoo
   srcname: app-containers/cri-tools
   visiblename: app-containers/cri-tools
@@ -465,24 +422,31 @@
     - MPL-2.0
   categories:
     - app-containers
-- repo: opensuse_leap_15_5
-  subrepo: main/oss
-  srcname: cri-tools
-  visiblename: cri-tools
-  version: 1.18.0
-  origversion: 1.18.0-bp155.2.18
-  status: outdated
-  summary: CLI and validation tools for Kubelet Container Runtime Interface
-  licenses:
-    - Apache-2.0
-  categories:
-    - System/Management
 - repo: gentoo
   srcname: app-containers/cri-tools
   visiblename: app-containers/cri-tools
   version: 1.36.0
   origversion: null
-  status: outdated
+  status: legacy
+  summary: CLI and validation tools for Kubelet Container Runtime (CRI)
+  maintainers:
+    - zmedico@gentoo.org
+  licenses:
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - CC-BY-SA-4.0
+    - ISC
+    - MIT
+    - MPL-2.0
+  categories:
+    - app-containers
+- repo: gentoo
+  srcname: app-containers/cri-tools
+  visiblename: app-containers/cri-tools
+  version: 1.37.0
+  origversion: null
+  status: newest
   summary: CLI and validation tools for Kubelet Container Runtime (CRI)
   maintainers:
     - zmedico@gentoo.org
@@ -600,17 +564,25 @@
     - MPL-2.0
   categories:
     - app-containers
-- repo: parabola
-  subrepo: extra
-  srcname: cri-tools
-  binname: critest
-  visiblename: critest
-  version: 1.36.0
-  origversion: 1.36.0-1
-  status: outdated
-  summary: A benchmarking CLI for CRI-compatible container runtimes
+- repo: liguros_develop
+  srcname: app-containers/cri-tools
+  visiblename: app-containers/cri-tools
+  version: 1.35.0
+  origversion: null
+  status: legacy
+  summary: CLI and validation tools for Kubelet Container Runtime (CRI)
+  maintainers:
+    - zmedico@gentoo.org
   licenses:
     - Apache-2.0
+    - BSD
+    - BSD-2
+    - CC-BY-SA-4.0
+    - ISC
+    - MIT
+    - MPL-2.0
+  categories:
+    - app-containers
 - repo: liguros_develop
   srcname: app-containers/cri-tools
   visiblename: app-containers/cri-tools
@@ -633,23 +605,23 @@
 - repo: manjaro_stable
   subrepo: extra
   srcname: cri-tools
-  binname: critest
-  visiblename: critest
+  binname: crictl
+  visiblename: crictl
   version: 1.36.0
   origversion: 1.36.0-1
   status: outdated
-  summary: A benchmarking CLI for CRI-compatible container runtimes
+  summary: A CLI for CRI-compatible container runtimes
   licenses:
     - Apache-2.0
 - repo: manjaro_stable
   subrepo: extra
   srcname: cri-tools
-  binname: crictl
-  visiblename: crictl
+  binname: critest
+  visiblename: critest
   version: 1.36.0
   origversion: 1.36.0-1
   status: outdated
-  summary: A CLI for CRI-compatible container runtimes
+  summary: A benchmarking CLI for CRI-compatible container runtimes
   licenses:
     - Apache-2.0
 - repo: manjaro_testing
@@ -677,23 +649,23 @@
 - repo: manjaro_unstable
   subrepo: extra
   srcname: cri-tools
-  binname: critest
-  visiblename: critest
-  version: 1.36.0
-  origversion: 1.36.0-1
-  status: outdated
-  summary: A benchmarking CLI for CRI-compatible container runtimes
-  licenses:
-    - Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: cri-tools
   binname: crictl
   visiblename: crictl
   version: 1.36.0
   origversion: 1.36.0-1
   status: outdated
   summary: A CLI for CRI-compatible container runtimes
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: cri-tools
+  binname: critest
+  visiblename: critest
+  version: 1.36.0
+  origversion: 1.36.0-1
+  status: outdated
+  summary: A benchmarking CLI for CRI-compatible container runtimes
   licenses:
     - Apache-2.0
 - repo: nix_stable_24_05
@@ -768,6 +740,18 @@
     - vincent@sbr.pm
   licenses:
     - Apache-2.0
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
+  srcname: cri-tools
+  visiblename: cri-tools
+  version: 1.18.0
+  origversion: 1.18.0-bp155.2.18
+  status: outdated
+  summary: CLI and validation tools for Kubelet Container Runtime Interface
+  licenses:
+    - Apache-2.0
+  categories:
+    - System/Management
 - repo: opensuse_leap_15_6
   subrepo: main/oss
   srcname: cri-tools
@@ -796,6 +780,41 @@
     - Apache-2.0
   categories:
     - System/Management
+- repo: parabola
+  subrepo: extra
+  srcname: cri-tools
+  binname: crictl
+  visiblename: crictl
+  version: 1.36.0
+  origversion: 1.36.0-1
+  status: outdated
+  summary: A CLI for CRI-compatible container runtimes
+  licenses:
+    - Apache-2.0
+- repo: parabola
+  subrepo: extra
+  srcname: cri-tools
+  binname: critest
+  visiblename: critest
+  version: 1.36.0
+  origversion: 1.36.0-1
+  status: outdated
+  summary: A benchmarking CLI for CRI-compatible container runtimes
+  licenses:
+    - Apache-2.0
+- repo: parrot
+  subrepo: parrot/main
+  srcname: cri-tools
+  binnames:
+    - cri-tools
+  visiblename: cri-tools
+  version: 1.28.0
+  origversion: 1.28.0-0parrot1
+  status: outdated
+  maintainers:
+    - palinuro@parrotsec.org
+  categories:
+    - misc
 - repo: rosa_2019_1
   subrepo: main/release
   srcname: cri-tools

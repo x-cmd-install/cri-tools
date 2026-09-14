@@ -47,22 +47,22 @@ x install cri-tools
 
 ## 流行度
 
-- **Star**: 2,013 · **Fork**: 491 · **开放 issue**: 422 · **贡献者**: 534
+- **Star**: 2,014 · **Fork**: 491 · **开放 issue**: 422 · **贡献者**: 534
 
 ## 累计统计
 
-- **发布数**: 43 · **已合并 PR**: 1526 · **开放 PR**: 6 · **已关闭 issue**: 416 · **开放 issue**: 6 · **提交数**: 3179
+- **发布数**: 43 · **已合并 PR**: 1526 · **开放 PR**: 7 · **已关闭 issue**: 416 · **开放 issue**: 6 · **提交数**: 3179
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 11 | 2 | 0 | 1 | 14 |
-| last60d | 2026-07-15 | 1 | 24 | 2 | 1 | 1 | 29 |
-| 90d | 2026-06-15 | 1 | 40 | 3 | 4 | 1 | 49 |
-| last180d | 2026-03-17 | 2 | 129 | 6 | 8 | 3 | 142 |
-| 360d | 2025-09-18 | 3 | 205 | 6 | 17 | 4 | 218 |
-| last720d | 2024-09-23 | 6 | 429 | 6 | 40 | 4 | 869 |
+| 30d | 2026-08-15 | 1 | 11 | 3 | 0 | 1 | 14 |
+| last60d | 2026-07-16 | 1 | 23 | 3 | 1 | 1 | 25 |
+| 90d | 2026-06-16 | 1 | 40 | 4 | 4 | 1 | 47 |
+| last180d | 2026-03-18 | 2 | 126 | 7 | 8 | 3 | 127 |
+| 360d | 2025-09-19 | 3 | 205 | 7 | 17 | 4 | 216 |
+| last720d | 2024-09-24 | 6 | 429 | 7 | 40 | 4 | 868 |
 
 ## Release 资产
 
@@ -123,20 +123,6 @@ x install cri-tools
 | [critest-v1.37.0-windows-amd64.tar.gz.sha256](https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-windows-amd64.tar.gz.sha256) | 65 B | `native/win/x64` |
 | [critest-v1.37.0-windows-amd64.tar.gz.sha512](https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-windows-amd64.tar.gz.sha512) | 129 B | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/cri-tools) 上共有 **66** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**49** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `1.36.0` | ⚠️ outdated |
-| Homebrew | `1.37.0` | ✅ latest |
-| Fedora rawhide | `1.29.0` | ⚠️ outdated |
-| Nix unstable | `1.37.0` | ✅ latest |
-| Void | `1.36.0` | ⚠️ outdated |
-| Alpine edge | `1.36.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.36.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 cri-tools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `cri-tools` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -146,4 +132,4 @@ cri-tools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:15:31Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:14:35Z._

@@ -14,11 +14,11 @@ x install cri-tools
 
 ## Code insight
 
-Total: **923,089** lines of code across **2828** files in the top 5 languages.
+Total: **922,385** lines of code across **2819** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 907,986 | 161,482 | 89,945 | 2719 |
+| Go | 907,282 | 161,127 | 89,786 | 2710 |
 | AssemblyGAS | 7,023 | 440 | 1,843 | 60 |
 | Protobuf | 3,487 | 7,584 | 1,617 | 10 |
 | Sh | 1,719 | 398 | 200 | 22 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.37.0` (2026-09-01)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-14
 - **Assets in release**: 54
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 1526 · **Open PRs**: 7 · **Closed issues**: 416 · **Open issues**: 6 · **Commits**: 3179
+- **Releases**: 43 · **Merged PRs**: 1527 · **Open PRs**: 6 · **Closed issues**: 416 · **Open issues**: 6 · **Commits**: 3181
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 11 | 3 | 0 | 1 | 14 |
-| last60d | 2026-07-16 | 1 | 23 | 3 | 1 | 1 | 25 |
-| 90d | 2026-06-16 | 1 | 40 | 4 | 4 | 1 | 47 |
-| last180d | 2026-03-18 | 2 | 126 | 7 | 8 | 3 | 127 |
-| 360d | 2025-09-19 | 3 | 205 | 7 | 17 | 4 | 216 |
-| last720d | 2024-09-24 | 6 | 429 | 7 | 40 | 4 | 868 |
+| 30d | 2026-08-16 | 1 | 12 | 2 | 0 | 1 | 15 |
+| last60d | 2026-07-17 | 1 | 23 | 2 | 1 | 1 | 26 |
+| 90d | 2026-06-17 | 1 | 41 | 3 | 3 | 1 | 48 |
+| last180d | 2026-03-19 | 2 | 125 | 6 | 8 | 3 | 128 |
+| 360d | 2025-09-20 | 3 | 206 | 6 | 17 | 4 | 217 |
+| last720d | 2024-09-25 | 6 | 430 | 6 | 40 | 4 | 870 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for cri-tools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:14:34Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:20:39Z._

@@ -4,7 +4,7 @@
 
 CLI and validation tools for Kubelet Container Runtime Interface (CRI) .
 
-![cri-tools](https://repo.x-cmd.io/cri-tools.svg)
+[![x-cmd/install — cri-tools Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cri-tools.svg)](https://x-cmd.com/install/cri-tools)
 
 ## Install
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.37.0` (2026-09-01)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-18
 - **Assets in release**: 54
 
 ## Popularity
 
-- **Stars**: 2,014 · **Forks**: 492 · **Open issues**: 422 · **Contributors**: 536
+- **Stars**: 2,014 · **Forks**: 492 · **Open issues**: 422 · **Contributors**: 537
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 1527 · **Open PRs**: 8 · **Closed issues**: 416 · **Open issues**: 6 · **Commits**: 3181
+- **Releases**: 43 · **Merged PRs**: 1528 · **Open PRs**: 10 · **Closed issues**: 416 · **Open issues**: 6 · **Commits**: 3183
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 12 | 4 | 0 | 1 | 15 |
-| last60d | 2026-07-20 | 1 | 23 | 4 | 1 | 1 | 26 |
-| 90d | 2026-06-20 | 1 | 40 | 5 | 3 | 1 | 48 |
-| last180d | 2026-03-22 | 2 | 124 | 8 | 6 | 3 | 128 |
-| 360d | 2025-09-23 | 3 | 205 | 8 | 17 | 4 | 217 |
-| last720d | 2024-09-28 | 6 | 429 | 8 | 40 | 4 | 869 |
+| 30d | 2026-08-21 | 1 | 13 | 6 | 0 | 1 | 13 |
+| last60d | 2026-07-22 | 1 | 22 | 6 | 1 | 1 | 24 |
+| 90d | 2026-06-22 | 1 | 41 | 7 | 3 | 1 | 41 |
+| last180d | 2026-03-24 | 2 | 120 | 10 | 6 | 3 | 125 |
+| 360d | 2025-09-25 | 3 | 205 | 10 | 17 | 4 | 214 |
+| last720d | 2024-09-30 | 6 | 430 | 10 | 40 | 4 | 871 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for cri-tools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:10:46Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:16:00Z._

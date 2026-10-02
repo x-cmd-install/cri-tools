@@ -14,14 +14,14 @@ x install cri-tools
 
 ## Code insight
 
-Total: **922,615** lines of code across **2827** files in the top 5 languages.
+Total: **922,619** lines of code across **2827** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 907,512 | 161,388 | 89,863 | 2718 |
+| Go | 907,515 | 161,396 | 89,864 | 2718 |
 | AssemblyGAS | 7,023 | 440 | 1,843 | 60 |
 | Protobuf | 3,487 | 7,584 | 1,617 | 10 |
-| Sh | 1,719 | 398 | 200 | 22 |
+| Sh | 1,720 | 403 | 200 | 22 |
 | Yaml | 1,272 | 71 | 109 | 17 |
 
 ## OpenSSF Scorecard
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.37.0` (2026-09-01)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-10-02
 - **Assets in release**: 54
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 1534 · **Open PRs**: 10 · **Closed issues**: 416 · **Open issues**: 7 · **Commits**: 3195
+- **Releases**: 43 · **Merged PRs**: 1536 · **Open PRs**: 9 · **Closed issues**: 416 · **Open issues**: 7 · **Commits**: 3199
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 1 | 10 | 6 | 0 | 2 | 10 |
-| last60d | 2026-08-02 | 1 | 24 | 7 | 0 | 2 | 28 |
-| 90d | 2026-07-03 | 1 | 35 | 8 | 3 | 2 | 40 |
-| last180d | 2026-04-04 | 2 | 123 | 10 | 6 | 4 | 129 |
-| 360d | 2025-10-06 | 3 | 208 | 10 | 17 | 5 | 217 |
-| last720d | 2024-10-11 | 6 | 423 | 10 | 39 | 5 | 854 |
+| 30d | 2026-09-02 | 0 | 12 | 5 | 0 | 2 | 12 |
+| last60d | 2026-08-03 | 1 | 25 | 6 | 0 | 2 | 30 |
+| 90d | 2026-07-04 | 1 | 37 | 7 | 3 | 2 | 42 |
+| last180d | 2026-04-05 | 2 | 125 | 9 | 6 | 4 | 131 |
+| 360d | 2025-10-07 | 3 | 209 | 9 | 17 | 5 | 219 |
+| last720d | 2024-10-12 | 6 | 425 | 9 | 39 | 5 | 858 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for cri-tools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:05:28Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:49:02Z._

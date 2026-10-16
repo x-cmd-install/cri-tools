@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,017 · **Forks**: 492 · **Open issues**: 424 · **Contributors**: 552
+- **Stars**: 2,017 · **Forks**: 494 · **Open issues**: 424 · **Contributors**: 552
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 1547 · **Open PRs**: 11 · **Closed issues**: 417 · **Open issues**: 7 · **Commits**: 3222
+- **Releases**: 43 · **Merged PRs**: 1547 · **Open PRs**: 12 · **Closed issues**: 417 · **Open issues**: 7 · **Commits**: 3222
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 19 | 6 | 1 | 1 | 20 |
-| last60d | 2026-08-16 | 1 | 31 | 9 | 1 | 2 | 35 |
-| 90d | 2026-07-17 | 1 | 42 | 9 | 2 | 2 | 48 |
-| last180d | 2026-04-18 | 2 | 124 | 10 | 7 | 3 | 132 |
-| 360d | 2025-10-20 | 3 | 215 | 11 | 17 | 5 | 226 |
-| last720d | 2024-10-25 | 6 | 411 | 11 | 38 | 5 | 835 |
+| 30d | 2026-09-16 | 0 | 19 | 7 | 1 | 1 | 20 |
+| last60d | 2026-08-17 | 1 | 31 | 10 | 1 | 2 | 35 |
+| 90d | 2026-07-18 | 1 | 42 | 10 | 2 | 2 | 48 |
+| last180d | 2026-04-19 | 2 | 124 | 11 | 7 | 3 | 132 |
+| 360d | 2025-10-21 | 3 | 215 | 12 | 17 | 5 | 226 |
+| last720d | 2024-10-26 | 6 | 411 | 12 | 38 | 5 | 829 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for cri-tools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:50:27Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:44:05Z._

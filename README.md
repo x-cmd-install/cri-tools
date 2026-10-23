@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,021 · **Forks**: 494 · **Open issues**: 424 · **Contributors**: 555
+- **Stars**: 2,022 · **Forks**: 494 · **Open issues**: 424 · **Contributors**: 555
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 15 | 6 | 2 | 0 | 15 |
-| last60d | 2026-08-23 | 1 | 32 | 9 | 2 | 1 | 33 |
-| 90d | 2026-07-24 | 1 | 39 | 9 | 3 | 1 | 44 |
-| last180d | 2026-04-25 | 1 | 121 | 10 | 7 | 2 | 126 |
-| 360d | 2025-10-27 | 3 | 215 | 11 | 19 | 3 | 223 |
-| last720d | 2024-11-01 | 6 | 406 | 11 | 40 | 3 | 822 |
+| 30d | 2026-09-23 | 0 | 15 | 6 | 2 | 0 | 15 |
+| last60d | 2026-08-24 | 1 | 30 | 9 | 2 | 1 | 33 |
+| 90d | 2026-07-25 | 1 | 38 | 9 | 2 | 1 | 44 |
+| last180d | 2026-04-26 | 1 | 121 | 10 | 7 | 2 | 126 |
+| 360d | 2025-10-28 | 3 | 212 | 11 | 19 | 3 | 223 |
+| last720d | 2024-11-02 | 6 | 406 | 11 | 40 | 3 | 821 |
 
 ## Release assets
 
@@ -123,6 +123,20 @@ Lowest-scoring checks:
 | [critest-v1.37.0-windows-amd64.tar.gz.sha256](https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-windows-amd64.tar.gz.sha256) | 65 B | `native/win/x64` |
 | [critest-v1.37.0-windows-amd64.tar.gz.sha512](https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-windows-amd64.tar.gz.sha512) | 129 B | `native/win/x64` |
 
+## Distribution status
+
+Reported by **65** distros on [repology.org](https://repology.org/project/cri-tools). **14** are ✅ on the latest upstream release, **36** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.37.0` | ✅ latest |
+| Homebrew | `1.37.0` | ✅ latest |
+| Fedora rawhide | `1.29.0` | ⚠️ outdated |
+| Nix unstable | `1.37.0` | ✅ latest |
+| Void | `1.36.0` | ⚠️ outdated |
+| Alpine edge | `1.36.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.37.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for cri-tools lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cri-tools` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -132,4 +146,4 @@ Install metadata for cri-tools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:56:52Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:01:32Z._

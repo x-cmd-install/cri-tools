@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 15 | 6 | 2 | 0 | 15 |
-| last60d | 2026-08-24 | 1 | 30 | 9 | 2 | 1 | 33 |
-| 90d | 2026-07-25 | 1 | 38 | 9 | 2 | 1 | 44 |
-| last180d | 2026-04-26 | 1 | 121 | 10 | 7 | 2 | 126 |
-| 360d | 2025-10-28 | 3 | 212 | 11 | 19 | 3 | 223 |
-| last720d | 2024-11-02 | 6 | 406 | 11 | 40 | 3 | 821 |
+| 30d | 2026-09-24 | 0 | 14 | 6 | 2 | 0 | 15 |
+| last60d | 2026-08-25 | 1 | 30 | 9 | 2 | 1 | 33 |
+| 90d | 2026-07-26 | 1 | 38 | 9 | 2 | 1 | 44 |
+| last180d | 2026-04-27 | 1 | 119 | 10 | 7 | 2 | 126 |
+| 360d | 2025-10-29 | 3 | 212 | 11 | 19 | 3 | 223 |
+| last720d | 2024-11-03 | 6 | 406 | 11 | 40 | 3 | 821 |
 
 ## Release assets
 
@@ -146,4 +146,4 @@ Install metadata for cri-tools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:01:32Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:48:11Z._

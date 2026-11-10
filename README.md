@@ -14,11 +14,11 @@ x install cri-tools
 
 ## Code insight
 
-Total: **927,516** lines of code across **2841** files in the top 5 languages.
+Total: **927,552** lines of code across **2842** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 912,533 | 163,109 | 90,715 | 2731 |
+| Go | 912,569 | 163,123 | 90,724 | 2732 |
 | AssemblyGAS | 6,920 | 439 | 1,833 | 61 |
 | Protobuf | 3,492 | 7,612 | 1,618 | 10 |
 | Sh | 1,718 | 402 | 205 | 22 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.37.0` (2026-09-01)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-10
 - **Assets in release**: 54
 
 ## Popularity
 
-- **Stars**: 2,023 · **Forks**: 494 · **Open issues**: 424 · **Contributors**: 561
+- **Stars**: 2,025 · **Forks**: 495 · **Open issues**: 424 · **Contributors**: 561
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 1555 · **Open PRs**: 11 · **Closed issues**: 419 · **Open issues**: 5 · **Commits**: 3238
+- **Releases**: 43 · **Merged PRs**: 1556 · **Open PRs**: 12 · **Closed issues**: 419 · **Open issues**: 5 · **Commits**: 3240
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 10 | 3 | 0 | 0 | 6 |
-| last60d | 2026-09-10 | 0 | 28 | 7 | 2 | 0 | 28 |
-| 90d | 2026-08-11 | 1 | 41 | 9 | 2 | 1 | 43 |
-| last180d | 2026-05-13 | 1 | 114 | 10 | 7 | 2 | 116 |
-| 360d | 2025-11-14 | 3 | 210 | 11 | 19 | 3 | 219 |
-| last720d | 2024-11-19 | 6 | 395 | 11 | 39 | 3 | 802 |
+| 30d | 2026-10-11 | 0 | 11 | 4 | 0 | 0 | 7 |
+| last60d | 2026-09-11 | 0 | 29 | 8 | 2 | 0 | 29 |
+| 90d | 2026-08-12 | 1 | 41 | 10 | 2 | 1 | 44 |
+| last180d | 2026-05-14 | 1 | 115 | 11 | 7 | 2 | 117 |
+| 360d | 2025-11-15 | 3 | 211 | 12 | 19 | 3 | 220 |
+| last720d | 2024-11-20 | 6 | 396 | 12 | 38 | 3 | 800 |
 
 ## Release assets
 
@@ -123,20 +123,6 @@ Lowest-scoring checks:
 | [critest-v1.37.0-windows-amd64.tar.gz.sha256](https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-windows-amd64.tar.gz.sha256) | 65 B | `native/win/x64` |
 | [critest-v1.37.0-windows-amd64.tar.gz.sha512](https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-windows-amd64.tar.gz.sha512) | 129 B | `native/win/x64` |
 
-## Distribution status
-
-Reported by **66** distros on [repology.org](https://repology.org/project/cri-tools). **16** are ✅ on the latest upstream release, **35** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.37.0` | ✅ latest |
-| Homebrew | `1.37.0` | ✅ latest |
-| Fedora rawhide | `1.29.0` | ⚠️ outdated |
-| Nix unstable | `1.37.0` | ✅ latest |
-| Void | `1.36.0` | ⚠️ outdated |
-| Alpine edge | `1.36.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.37.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for cri-tools lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cri-tools` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -146,4 +132,4 @@ Install metadata for cri-tools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:45:25Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:34:48Z._

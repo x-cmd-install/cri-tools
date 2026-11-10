@@ -14,11 +14,11 @@ x install cri-tools
 
 ## 代码洞察
 
-合计: **927,516** 行代码（覆盖前 5 种语言、共 **2841** 个文件）。
+合计: **927,552** 行代码（覆盖前 5 种语言、共 **2842** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 912,533 | 163,109 | 90,715 | 2731 |
+| Go | 912,569 | 163,123 | 90,724 | 2732 |
 | AssemblyGAS | 6,920 | 439 | 1,833 | 61 |
 | Protobuf | 3,492 | 7,612 | 1,618 | 10 |
 | Sh | 1,718 | 402 | 205 | 22 |
@@ -42,27 +42,27 @@ x install cri-tools
 ## 发布
 
 - **最新版本**: `v1.37.0` (2026-09-01)
-- **最近提交**: 2026-11-06
+- **最近提交**: 2026-11-10
 - **Release 含资产**: 54 个
 
 ## 流行度
 
-- **Star**: 2,023 · **Fork**: 494 · **开放 issue**: 424 · **贡献者**: 561
+- **Star**: 2,025 · **Fork**: 495 · **开放 issue**: 424 · **贡献者**: 561
 
 ## 累计统计
 
-- **发布数**: 43 · **已合并 PR**: 1555 · **开放 PR**: 11 · **已关闭 issue**: 419 · **开放 issue**: 5 · **提交数**: 3238
+- **发布数**: 43 · **已合并 PR**: 1556 · **开放 PR**: 12 · **已关闭 issue**: 419 · **开放 issue**: 5 · **提交数**: 3240
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 10 | 3 | 0 | 0 | 6 |
-| last60d | 2026-09-10 | 0 | 28 | 7 | 2 | 0 | 28 |
-| 90d | 2026-08-11 | 1 | 41 | 9 | 2 | 1 | 43 |
-| last180d | 2026-05-13 | 1 | 114 | 10 | 7 | 2 | 116 |
-| 360d | 2025-11-14 | 3 | 210 | 11 | 19 | 3 | 219 |
-| last720d | 2024-11-19 | 6 | 395 | 11 | 39 | 3 | 802 |
+| 30d | 2026-10-11 | 0 | 11 | 4 | 0 | 0 | 7 |
+| last60d | 2026-09-11 | 0 | 29 | 8 | 2 | 0 | 29 |
+| 90d | 2026-08-12 | 1 | 41 | 10 | 2 | 1 | 44 |
+| last180d | 2026-05-14 | 1 | 115 | 11 | 7 | 2 | 117 |
+| 360d | 2025-11-15 | 3 | 211 | 12 | 19 | 3 | 220 |
+| last720d | 2024-11-20 | 6 | 396 | 12 | 38 | 3 | 800 |
 
 ## Release 资产
 
@@ -123,20 +123,6 @@ x install cri-tools
 | [critest-v1.37.0-windows-amd64.tar.gz.sha256](https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-windows-amd64.tar.gz.sha256) | 65 B | `native/win/x64` |
 | [critest-v1.37.0-windows-amd64.tar.gz.sha512](https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.37.0/critest-v1.37.0-windows-amd64.tar.gz.sha512) | 129 B | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/cri-tools) 上共有 **66** 个发行版报告此项目。**16** 个 ✅ 已是最新上游版本，**35** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `1.37.0` | ✅ latest |
-| Homebrew | `1.37.0` | ✅ latest |
-| Fedora rawhide | `1.29.0` | ⚠️ outdated |
-| Nix unstable | `1.37.0` | ✅ latest |
-| Void | `1.36.0` | ⚠️ outdated |
-| Alpine edge | `1.36.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.37.0` | ✅ latest |
-
 ## 改进这些数据
 
 cri-tools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `cri-tools` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -146,4 +132,4 @@ cri-tools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T06:45:27Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T07:34:49Z._
